@@ -1,0 +1,22 @@
+.blue_light {
+    background-color: #549B9A !important;
+}
+@media screen and (max-width: 1130px) {
+	.col-sm-3 {
+		padding: 0;
+		margin-left: -20px;
+	}
+  }
+@media screen and (max-width: 930px) {
+	.col-sm-4 {
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+	.col-sm-3 {
+		padding: 0;
+		margin-left: -20px;
+	}
+	.lead {
+		font-size: 17px;
+	}
+  }

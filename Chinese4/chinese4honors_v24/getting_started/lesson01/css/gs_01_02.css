@@ -1,0 +1,8 @@
+.image-container.showcase {
+    margin: 20px auto 20px;
+}
+
+.fev_display {
+    display: flex;
+    align-items: center;
+}

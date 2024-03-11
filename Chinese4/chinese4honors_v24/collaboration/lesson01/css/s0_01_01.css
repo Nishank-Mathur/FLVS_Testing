@@ -1,0 +1,9 @@
+@media (max-width: 768px){
+	.tabs a.active, .tabs a.tab:hover {
+		font-size: 13px;
+	}
+
+	.tabs a.tab {
+		font-size: 13px;	
+	}
+}

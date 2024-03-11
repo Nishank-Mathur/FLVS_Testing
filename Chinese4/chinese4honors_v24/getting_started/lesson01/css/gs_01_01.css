@@ -1,0 +1,16 @@
+@media screen and (max-width: 855px) {
+	.tabs a.leftAlign {
+		word-wrap: normal !important;
+	}
+}
+@media screen and (max-width: 790px) {
+	.tabs a.leftAlign {
+		word-wrap: normal !important;
+	}
+	.tabs a.tab {
+		font-size: 13px;
+	}
+	.tabs a.active, .tabs a.tab:hover {
+		font-size: 13px;
+	}
+}
